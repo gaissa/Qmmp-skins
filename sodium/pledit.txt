@@ -1,0 +1,8 @@
+[Text]
+Normal=#ffffff
+Current=#999999
+NormalBG=#000000
+SelectedBG=#666666
+Font=BitStream Vera Sans
+mbBG=#ffffff
+mbFG=#ffffff
